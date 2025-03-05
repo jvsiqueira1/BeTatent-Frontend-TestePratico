@@ -16,7 +16,7 @@ Ele consiste em uma **tabela interativa de funcionários**, consumindo dados de 
 
 ## 🔗 **Links Importantes**
 🔗 **API Utilizada:**  
-[API de Funcionários - BeMobile](https://github.com/BeMobile/teste-pratico-frontend?tab=readme-ov-file)
+[API de Funcionários - BeTalent](https://github.com/BeMobile/teste-pratico-frontend?tab=readme-ov-file)
 
 ---
 
