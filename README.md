@@ -9,8 +9,8 @@ Ele consiste em uma **tabela interativa de funcionários**, consumindo dados de 
 - **React.js** 
 - **TypeScript** 
 - **Tailwind** 
-- **ShadCN UI** 
-- **Vite.js** 
+- **ShadCN UI**
+-  **Axios** 
 
 ---
 
